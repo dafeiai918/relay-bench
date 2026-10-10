@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.json
+!sample*.json
+report.*
+.venv/
+.pytest_cache/
